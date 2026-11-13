@@ -88,7 +88,7 @@ Choose your path:
 - Bunga Nirmala Ramadhani
 - Roudhotul Jannah
 
-### Research Student
+### Student
 - Alisha Shafira Qolby
 
 <p align="center">
